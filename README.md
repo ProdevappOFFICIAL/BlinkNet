@@ -1,4 +1,8 @@
-# ⚡ BlinkNet - The Fastest Offline and Online File Sharing App
+# <p align="center">
+  <img src="https://raw.githubusercontent.com/ProdevappOFFICIAL/BlinkNet/refs/heads/main/BlinkNetLogo.png" alt="BlinkNet Logo" width="200"/>
+</p>
+
+ BlinkNet - The Fastest Offline and Online File Sharing App
 
 BlinkNet is a high-performance, cross-platform file sharing application built with *Electron, **Vite, and **React. Designed to outperform traditional solutions like **AirDrop, **Xender, and **Senda*, BlinkNet combines blazing-fast transfer speeds with a beautiful desktop-native UI.
 
