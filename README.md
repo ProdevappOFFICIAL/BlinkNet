@@ -44,17 +44,6 @@ npm install
 npm run dev
 ```
 
-**Limitations of the Prototype:**
-While the prototype implements core optimization strategies, it has some limitations compared to the full BlinkNet Ultra specification:
-
-The hardware acceleration is simulated rather than using actual GPU computation
-RAM disk buffering is not fully implemented
-The compression implementation is simplified
-Mesh network capabilities are limited
-
-Even with these limitations, the fundamental architecture choices (parallel transfers, protocol fusion, and network analysis) should provide significant speed improvements over conventional transfer methods like AirDrop and Xender.
-To maximize performance, make sure to run the application on devices with good network connectivity, preferably on WiFi 5 (802.11ac) or WiFi 6 (802.11ax) networks, and with minimal network congestion.
-
 ## How to Use
 
 1. Launch the application on two or more devices on the same network
