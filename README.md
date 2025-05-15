@@ -1,4 +1,4 @@
-# BlinkNet Ultra Prototype
+# BlinkNet Ultra Prototype (PC Share)
 
 A high-speed file transfer application prototype based on the BlinkNet Ultra concept. This prototype implements core features that enable significantly faster file transfers compared to standard solutions.
 
@@ -78,7 +78,16 @@ While this prototype doesn't implement all the optimizations of the full BlinkNe
 - Smart protocol selection based on network analysis
 - Dynamic chunk sizing based on file type and network conditions
 
-## Limitations of the Prototype
+
+##Prototype
+![Cf1AQxHyN6](https://github.com/user-attachments/assets/8882efd2-9b52-4d1c-b92c-1d6ca5cfb420)
+![tXgdLZPimo](https://github.com/user-attachments/assets/c758d77b-e63f-46fe-a609-5288ab32789b)
+![rHs2YagrWD](https://github.com/user-attachments/assets/fa2d0390-03b7-429a-81d8-dcfbb20c20c9)
+![tsMzsDqr7V](https://github.com/user-attachments/assets/3ea38bbc-0770-4202-86f1-da84f9e5882b)
+![bJeTvaDgCq](https://github.com/user-attachments/assets/db036f14-33b4-484b-9363-0263a48cc6b2)
+
+
+
 
 This prototype focuses on core functionality and doesn't implement all features of the full BlinkNet Ultra concept:
 
